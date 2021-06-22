@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "type": "module",
+  "version": "1.0.0",
+  "devDependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.6.0",
+    "eslint": "^7.26.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9",
+    "nodemailer": "^6.6.0"
+  },
+  "engines": {
+    "node": "v16.0.0",
+    "npm": "7.4.0"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "clean": "^4.0.2",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "easyinvoice": "^1.0.144",
+    "razorpay": "^2.0.6",
+    "shortid": "^2.2.16"
+  }
+}
